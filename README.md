@@ -11,9 +11,9 @@ Laravel Request API : <br>
     <th>Controller</th>
   </tr>
   <tr>
-    <th>GET|HEAD</th>
-    <th>api/articles</th>
-    <th>articles.index › API\ArticleController@index</th>
+    <td>GET|HEAD</td>
+    <td>api/articles</td>
+    <td>articles.index › API\ArticleController@index</td>
   </tr>
   <tr>
     <td>POST</td>
